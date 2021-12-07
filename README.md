@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Addo(张晓辉), a senior programmer
+This is Addo(张晓辉), a senior programmer.
 
 Years experience of microservice, devops and cloud native (Kubernetes, Conatiner and so on).
 
