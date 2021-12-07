@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Addo(张晓辉), a senior programmer
+
+Years experience of microservice, devops and cloud native (Kubernetes, Conatiner and so on).
+
+I am working at Flomesh as Senior Architect.
+
+In my spare time, I maintainer the wechat official account "云原生指北" and blog https://atbug.com.
