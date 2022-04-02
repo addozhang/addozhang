@@ -21,6 +21,6 @@ Years experience of microservice, devops and cloud native (Kubernetes, Conatiner
 
 I am working at Flomesh as Senior Architect.
 
-You can find what I am working from [https://flomesh.io](https://flomesh.io).
+You can find that I am working on from [https://flomesh.io](https://flomesh.io).
 
 In my spare time, I maintainer the wechat official account "云原生指北" and blog https://atbug.com.
